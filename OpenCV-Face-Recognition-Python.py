@@ -1,8 +1,4 @@
 
-
-
-# Face Recognition with OpenCV
-
 # To detect faces, I will use the code from my previous article on [face detection](https://www.superdatascience.com/opencv-face-detection/). So if you have not read it, I encourage you to do so to understand how face detection works and its Python coding. 
 
 # ### Import Required Modules
